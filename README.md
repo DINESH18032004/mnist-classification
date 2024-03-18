@@ -156,23 +156,23 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/42437081-cfce-461d-9842-1d99f85c14ca)
+![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/57fc7bec-ab25-4b12-ba54-8528b7a6fcc2)
 
-![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/0b81434a-2d0a-4386-9d78-e9008ac86a72)
+![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/f60335c0-9a7c-4336-bfd3-df2d807da3b4)
 
 
 ### Classification Report
 
-![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/04422107-17d2-4caa-a6a3-bbbdf6fcef75)
+![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/c349bec7-4e5f-481a-a25a-6b61ab744212)
 
 
 ### Confusion Matrix
 
-![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/7aa4c089-4f63-4810-98b0-f91a71e037d1)
+![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/94ecd9d0-8106-4b9d-857b-6bd5810997ad)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/806edd68-3851-4a40-a95b-d73e2dbf74b4)
+![image](https://github.com/DINESH18032004/mnist-classification/assets/119477784/6048e818-b3fb-4a8a-b9bd-8763a42f2e64)
 
 ## RESULT
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
